@@ -1,0 +1,9 @@
+*.pyc
+project.lock.json
+bin/
+obj/
+.vs/
+node_modules/
+/vote/movies.dat
+/vote/ratings.dat
+/vote/output_binary.bin
